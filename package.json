@@ -1,0 +1,29 @@
+{
+  "name": "crud-node-lowdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js --ignore db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloqv10/crud-node-lowdb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabloqv10/crud-node-lowdb/issues"
+  },
+  "homepage": "https://github.com/pabloqv10/crud-node-lowdb#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "morgan": "^1.9.1",
+    "uuid": "^7.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
