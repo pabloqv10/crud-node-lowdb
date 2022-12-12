@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/pabloqv10/crud-node-lowdb#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lowdb": "^1.0.0",
     "morgan": "^1.9.1",
     "uuid": "^7.0.1"
